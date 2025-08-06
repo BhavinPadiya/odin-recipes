@@ -3,6 +3,8 @@
 ## Description
 This is a simple recipe website created for educational purposes and as part of The Odin Project curriculum. It showcases basic HTML skills through various recipe pages.
 
+Link: https://bhavinpadiya.github.io/odin-recipes
+
 ## Installation
 Clone this repository and open the `index.html` file in your browser.
 
